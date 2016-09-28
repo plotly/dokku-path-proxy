@@ -1,0 +1,4 @@
+[plugin]
+description = "Dokku path based routing to cointainers from the default_server nginx."
+version = "0.1"
+[plugin.config]
